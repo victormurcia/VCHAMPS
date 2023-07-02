@@ -1,0 +1,3 @@
+This directory contains the more compact .parquet files converted fromt the original .csv files. 
+
+The original dataset was over 100GB in size. After converting the data to .parquet files the dataset is now just over 20GB which resulted in a ~80% reduction
